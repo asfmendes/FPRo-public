@@ -44,12 +44,13 @@ print(tup1)
 
 ### Indexing, Slicing
 
-#L = ('spam', 'Spam', 'SPAM!')
+#L = ('value', 'Value', 'Value!', 'VALue')
 #
 #print()
 #print(L[2])
 #print(L[-2])
 #print(L[1:])
+#print(L[1::2])
 
 ### No Enclosing Delimiters
 
