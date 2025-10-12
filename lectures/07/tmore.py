@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  3 22:18:43 2018
-
-@author: jlopes
-"""
 
 ### Updating Tuples
 
